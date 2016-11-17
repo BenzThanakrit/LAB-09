@@ -51,6 +51,7 @@ GDI+ (Graphics Device Interface Plus) เป็นกราฟฟิกส์ไ
  
  * ทดลอง Build และ Run โปรแกรม
  * บันทึกผลที่ได้
+ ![](https://github.com/BenzThanakrit/LAB-09/blob/master/imgs/9.1.PNG?raw=true);
 
 ###2.5.	การทดลองย่อย 2  การใช้สี
 ####2.5.1.	การใช้สีโดยการผสมค่าสี
@@ -88,5 +89,12 @@ GDI+ (Graphics Device Interface Plus) เป็นกราฟฟิกส์ไ
  
 
 ##คำถาม/แบบฝึกหัดท้ายการทดลอง
+![](https://github.com/BenzThanakrit/LAB-09/blob/master/imgs/9.2.1.PNG?raw=true);
+![](https://github.com/BenzThanakrit/LAB-09/blob/master/imgs/6.2.2.PNG?raw=true);
+![](https://github.com/BenzThanakrit/LAB-09/blob/master/imgs/6.2.3.PNG?raw=true);
+![](https://github.com/BenzThanakrit/LAB-09/blob/master/imgs/6.2.4.PNG?raw=true);
+![](https://github.com/BenzThanakrit/LAB-09/blob/master/imgs/6.2.5.PNG?raw=true);
+![](https://github.com/BenzThanakrit/LAB-09/blob/master/imgs/6.2.6.PNG?raw=true);
+
 * ให้เปลี่ยน Color และ HatchStyle เป็นแบบต่างๆ เพื่อดูความเปลี่ยนแปลง 
  * เลือกรูปแบจาก [MSDN: HatchStyle Enumeration](https://msdn.microsoft.com/en-us/library/system.drawing.drawing2d.hatchstyle(v=vs.110).aspx) แล้ววาดภาพมาส่งอย่างน้อย 6 รูปแบบ 
